@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">cloudinteractive顏志豪</string>
+    <string name="tv_name">顏志豪</string>
+    <string name="btn_api">Request API</string>
+</resources>
